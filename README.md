@@ -1,3 +1,14 @@
+Trabajo práctico para la materia Laboratorio I del INSPT-UTN.
+
+Alumnos: 
+Facio Gianfranco
+Vay Emanuel
+
+Docentes:
+Paula Ithurralde
+Silva Miguel
+
+Comisión 1-605
 <!-- ROADMAP -->
 
 ## Proyecto general
